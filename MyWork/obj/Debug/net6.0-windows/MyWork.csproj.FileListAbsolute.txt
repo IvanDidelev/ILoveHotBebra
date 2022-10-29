@@ -1,0 +1,66 @@
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\MyWork.exe
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\MyWork.deps.json
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\MyWork.runtimeconfig.json
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\MyWork.dll
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\MyWork.pdb
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.csproj.AssemblyReference.cache
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.Form1.resources
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.csproj.GenerateResource.cache
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.AssemblyInfoInputs.cache
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.AssemblyInfo.cs
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.csproj.CoreCompileInputs.cache
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.csproj.CopyComplete
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.dll
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\obj\Debug\net6.0-windows\refint\MyWork.dll
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.pdb
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.genruntimeconfig.cache
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\obj\Debug\net6.0-windows\ref\MyWork.dll
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.g.resources
+C:\Users\lyagu\Desktop\MyHW2\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.Properties.Resources.resources
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\MyWork.exe
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\MyWork.deps.json
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\MyWork.runtimeconfig.json
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\MyWork.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\MyWork.pdb
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.csproj.AssemblyReference.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.Form1.resources
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.csproj.GenerateResource.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.AssemblyInfoInputs.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.AssemblyInfo.cs
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.csproj.CoreCompileInputs.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.csproj.CopyComplete
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\obj\Debug\net6.0-windows\refint\MyWork.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.pdb
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\obj\Debug\net6.0-windows\MyWork.genruntimeconfig.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\MyWork\MyWork\obj\Debug\net6.0-windows\ref\MyWork.dll
